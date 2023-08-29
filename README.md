@@ -1,5 +1,5 @@
 # Pramaan-Frontend
 <br>
-Author - Devansh Verma
+Author - Hello vhai
 <br>
 Front end pages for the Pramaan project
